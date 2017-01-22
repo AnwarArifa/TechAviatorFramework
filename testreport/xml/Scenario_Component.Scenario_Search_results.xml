@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RegSet1"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="104.854">
+  <properties />
+  
+  
+            <testcase name="testInvalidSearch" time="51.106" classname="Scenario_Component.Scenario_Search" />
+                <testcase name="testInvalidSearch" time="53.748" classname="Scenario_Component.Scenario_Search" />
+      
+</testsuite>
